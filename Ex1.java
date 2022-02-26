@@ -1,4 +1,4 @@
-delete 1
+
 
 public class Ex1 {
 
