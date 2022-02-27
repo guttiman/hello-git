@@ -4,6 +4,7 @@ public class Ex1 {
 
 	public static void main(String[] args) {
 		// Q1)
+		// 0.  다시 수정 원본 저장소
 		// 1. 슈퍼클래스의 멤버를 서브클래스에서 선언 없이 사용할 수 있도록 물려받는 것은?
 		// => 상속(상속성, Inheritance)
 		
